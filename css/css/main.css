@@ -1,0 +1,46 @@
+.vseredine {text-align: center;
+    height: 500px;
+    width: 900px;
+    margin: 1em 33em 0.5em ;  
+}
+
+body{
+    background-color: gray;
+} 
+.zagolovokindex {
+    text-align: center;
+        color: gold;
+}
+header {
+    background-color:blue;
+}
+header li {
+    display: inline-block;
+}
+
+header a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px
+}
+.textindex {
+    text-align: center;
+    color:brown;
+    font-size: 30px;
+    text-indent: 15em;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+@media screen (min-width:1025px) and (max-width:1920px) {
+    
+}
